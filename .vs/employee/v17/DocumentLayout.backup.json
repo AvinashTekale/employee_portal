@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tekal\\source\\repos\\employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|c:\\users\\tekal\\source\\repos\\employee\\employee\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|solutionrelative:employee\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|c:\\users\\tekal\\source\\repos\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|c:\\users\\tekal\\source\\repos\\employee\\employee\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|solutionrelative:employee\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|c:\\users\\tekal\\source\\repos\\employee\\employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|solutionrelative:employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|c:\\users\\tekal\\source\\repos\\employee\\employee\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|solutionrelative:employee\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|c:\\users\\tekal\\source\\repos\\employee\\employee\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|solutionrelative:employee\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|c:\\users\\tekal\\source\\repos\\employee\\employee\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458872D4-C393-461F-BC02-68B555DAB276}|employee\\employee.csproj|solutionrelative:employee\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "employee\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Properties\\launchSettings.json",
+              "RelativeToolTip": "employee\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T14:25:56.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "employee\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "employee\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:12:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "employee\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Model\\Employee.cs",
+              "RelativeToolTip": "employee\\Model\\Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:48:03.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Program.cs",
+              "RelativeDocumentMoniker": "employee\\Program.cs",
+              "ToolTip": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Program.cs",
+              "RelativeToolTip": "employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:38:48.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Model\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "employee\\Model\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Model\\EmployeeDbContext.cs",
+              "RelativeToolTip": "employee\\Model\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:36:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\appsettings.json",
+              "RelativeDocumentMoniker": "employee\\appsettings.json",
+              "ToolTip": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\appsettings.json",
+              "RelativeToolTip": "employee\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T07:32:17.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "employee\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tekal\\source\\repos\\employee\\employee\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "employee\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:23:47.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
